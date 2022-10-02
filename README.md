@@ -12,6 +12,7 @@ There are 5 folders included in `dataset/`, dataset is in CONLL format. Files en
 - `rest/`: 10000 entries of additional weak data
 - `other/`: contains all strong and weak data seperated by original language translated from and combined
 
+
 **Entity Categories**
 
 The dataset covers 10 entity categories listed below. For detailed information about the dataset please see the corresponding paper.
