@@ -1,4 +1,17 @@
-# covidnews-ner
+# CovidNews-NER
+
+Welcome to the CovidNews-NER dataset. It is an English COVID-19 Named Entity Recognition dataset in the pandemic news domain, addressing current NER models’ lack of ability to tackle new and out-of-domain topics. It covers 10 entity categories listed below:
+
+- person
+- location
+- organization
+- time
+- disease
+- virus
+- product
+- animal
+- symptom
+- bacterium
 
 There are 5 folders included in `dataset/`, dataset is in CONLL format. Files ending with `_text.txt` are the text for each entry, files ending with `_true.txt` are the strong labels for each entry and files ending with `_dist.txt` are the weak labels for each entry.
 
