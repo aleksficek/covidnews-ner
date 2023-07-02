@@ -1,6 +1,6 @@
 # CovidNews-NER
 
-Welcome to the CovidNews-NER dataset. It is an English COVID-19 Named Entity Recognition dataset in the pandemic news domain, addressing current NER models’ lack of ability to tackle new and out-of-domain topics. 
+Welcome to the CovidNews-NER dataset. It is an English COVID-19 Named Entity Recognition dataset in the pandemic news domain, addressing current NER models’ lack of ability to tackle new and out-of-domain topics. For more information please reference the original paper ("How to tackle an emerging topic? Combining strong and weak labels for Covid new NER")[https://aclanthology.org/2022.aacl-short.60/].
 
 **Structure**
 
@@ -27,3 +27,7 @@ The dataset covers 10 entity categories listed below. For detailed information a
 - animal
 - symptom
 - bacterium
+
+**Code**
+
+The code uses the RoSTER repository with some modifications to it, to view the original please click (here)[https://github.com/yumeng5/RoSTER].
